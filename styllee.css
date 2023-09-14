@@ -1,0 +1,70 @@
+html, body{
+font-family: arial, sans-serif;
+margin: 5;
+}
+header{
+    background-image: url("jery.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	padding: 30px; 
+	text-align: center;
+}
+h1{
+font-size: 60px;
+color: #3B633B;
+font-style: italic;
+text-shadow: 4px 3px #F3C7C9;
+}
+body{
+	background-color: #4CA7C0;
+	font-family: serif;
+	font-size: 25px;
+	color: ghostwhite;
+}
+header img{
+border-radius: 200px;
+width: 250px;
+border: 10px solid #DED1B3;
+}
+.content{
+max-width: 750px;
+margin: 0 auto;
+padding: 0 20px;
+}
+h2{
+	font-family: grifter;
+}
+img.big-image{
+
+max-width: 100%;
+}
+p.caption{
+font-size: 40px;
+color: slateblue;
+font-style: italic;
+text-align: center;
+text-shadow: 2px 1px #3B633B;
+}
+ul{
+list-style: none;
+padding: 0;
+margin: 0;
+}
+a{
+color: #222222;
+text-decoration: none;
+}
+
+footer{
+margin-top: 20px;
+padding: 40px 20px;
+background-color: #71F6F9;
+}
+footer ul{
+text-align: center;
+}
+footer ul li{
+display: inline-block;
+margin: 0 5px;
+}
